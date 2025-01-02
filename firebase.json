@@ -1,0 +1,14 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "quiz-flutter-firebase",
+          "configurations": {
+            "web": "1:173946686468:web:450ab221c5727083fc7951"
+          }
+        }
+      }
+    }
+  }
+}
